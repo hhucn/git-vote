@@ -1,0 +1,11 @@
+Vote on git commits
+=====
+
+This is demonstration code that enables you to elect which commit should be the currently active one.
+
+Installation
+=====
+
+* Install python3
+
+License: [ASL 2.0](LICENSE).
